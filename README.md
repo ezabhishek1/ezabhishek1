@@ -64,3 +64,9 @@ I'm passionate about full-stack development, AI, and competitive programming.
 [![Mail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](itzabhi888@gmail.com)
 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prakharsingh-74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=11)](https://visitcount.itsvg.in)
